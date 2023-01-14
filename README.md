@@ -1,1 +1,1 @@
-"# node_simple_website" 
+#Bu mani Ruslan bilan boshlang'ich proektimiz
